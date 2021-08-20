@@ -46,6 +46,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Repository
+repository: WckD123/WckD123/WckD123.github.io
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
