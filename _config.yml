@@ -47,7 +47,7 @@ include:
 #   - vendor/ruby/
 
 # Repository
-repository: WckD123/WckD123/WckD123.github.io
+repository: WckD123/WckD123.github.io
 
 # Plugins (previously gems:)
 plugins:
