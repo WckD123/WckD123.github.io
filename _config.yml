@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Mehul Kaushik"
-  avatar : "/assets/images/profilepic.jpg"
+  avatar : "/assets/images/profilepic.jpeg"
   bio    : "On a continuous journey to learn. Elongated further due to long Netflix breaks."
   links:
     - label: "Website"
